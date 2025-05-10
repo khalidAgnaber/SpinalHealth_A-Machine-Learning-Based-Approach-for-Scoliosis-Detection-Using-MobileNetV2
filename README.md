@@ -11,3 +11,5 @@ This project presents an end-to-end machine learning pipeline for detecting scol
 📊 Two-phase training strategy for optimized performance
 
 ✅ Achieved 95% test accuracy and strong F1-scores
+
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
